@@ -1,2 +1,2 @@
-# scripts
-Scripts that help automate my desktop
+# Scripts
+Scripts that help automate my daily tasks
